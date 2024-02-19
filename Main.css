@@ -1,0 +1,19 @@
+body{ text-align: center;
+background-color: pink;
+}
+
+h1{ color: darkred;
+font-family: cursive;
+}
+
+h2{ color: black;
+font-family: cursive;
+}
+
+h3{ color: black;
+font-family: cursive;
+}
+
+pre{ font-family: cursive;
+font-size: 100%;
+}
